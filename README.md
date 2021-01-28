@@ -7,3 +7,5 @@ Ett git-projekt för att testa git-markdown.
 Så gör vi en gren av det här. Länken nedan verkar inte funka: hur lägger man in en vanlig länk?
 
 www.dn.se
+
+## Mera prylar
